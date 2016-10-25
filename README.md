@@ -35,4 +35,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
 | [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
 | [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 6.26 |
-
+| [HackNC](https://hacknc.com/) | Chapel Hill, NC | 10.28 - 10.30 |
+| [CodeRED Curiosity](https://uhcode.red/) | Houston, TX | 10.29 - 10.30 |
+| [ArchHacks](https://archhacks.io/) | St. Louis, MO | 11.4 - 11.6 |
+| [Technica](http://gotechnica.org/) | College Park, MD | 11.5 - 11.6 |
